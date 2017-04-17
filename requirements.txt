@@ -1,0 +1,6 @@
+redis
+bottle
+python-jose
+gevent
+pyzmq
+pycryptodome
